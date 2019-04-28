@@ -1,0 +1,29 @@
+{
+  "name": "bday",
+  "version": "1.0.5",
+  "description": "Grab the birthday of anybody of interest, celebrities, famous scientists, artists, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridarf/bday.git"
+  },
+  "keywords": [
+    "birthday",
+    "celebrities",
+    "celebrity",
+    "bday"
+  ],
+  "author": "Rida Fakih",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ridarf/bday/issues"
+  },
+  "homepage": "https://github.com/ridarf/bday#readme",
+  "dependencies": {
+    "jsdom": "^15.0.0",
+    "request-promise-native": "^1.0.7"
+  }
+}
