@@ -32,7 +32,7 @@ function bday(name, search_engine) {
 };
 
 function prep(current) {
-    const months = ["January", "February", "March", "April", "May", "June", "July", "August", "October", "November", "December"];
+    const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 
     const arr = current.birthday.replace(/[\W_]+/g, " ").split(" ");
     const month_index = months.findIndex(x => x.startsWith(arr[0]));
