@@ -1,5 +1,7 @@
 # bday
 
+[![Run on Repl.it](https://repl.it/badge/github/ridarf/bday)](https://repl.it/github/ridarf/bday)
+
 With Google and Bing, finding people's birthday is easy as long as they're
 an individual of great interest, scientists, artists, authors, etc. 
 are easy to find information about. This library scrapes those pages
